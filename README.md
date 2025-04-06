@@ -83,5 +83,5 @@ Below is a **visual representation** of our findings, showing sales trends, cate
 
 ## Conclusion   
 
-This analysis provides **valuable insights into Blinkit's sales trends, customer behavior, and operational challenges**. By leveraging Excel, we extracted critical KPIs that **help optimize inventory, improve customer experience, and boost revenue growth**.
+This analysis provides valuable insights into Blinkit's sales trends, customer behavior, and operational challenges. By leveraging Excel, we extracted critical KPIs that help optimize inventory, improve customer experience, and boost revenue growth**.
 ------
